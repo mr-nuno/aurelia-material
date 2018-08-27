@@ -1,0 +1,12 @@
+@import '~material-components-web/material-components-web.scss';
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+html{
+  font-family: 'Roboto', sans-serif;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+}
